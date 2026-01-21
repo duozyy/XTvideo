@@ -1,0 +1,5 @@
+{
+  "name": "小提助手",
+  "description": "专业的视频提取工具，支持 YouTube、X (Twitter)、Instagram 和 Sora，具备服务器缓存及自动流合并功能。",
+  "requestFramePermissions": []
+}
